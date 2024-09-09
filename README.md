@@ -1,2 +1,3 @@
 # git-test
-git lerning
+git learning.
+To use git more better way.
